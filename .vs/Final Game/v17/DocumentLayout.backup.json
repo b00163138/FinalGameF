@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Desktop\\Final Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\finishmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\finishmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|c:\\users\\micha\\desktop\\final game\\assets\\final version game\\platformer game\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\hearttimersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\hearttimersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\cameramoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\cameramoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|C:\\Users\\micha\\Desktop\\Final Game\\assets\\final version game\\platformer game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C19CDE-E626-3DA9-8F49-EDC4E37B8DAC}|Assembly-CSharp.csproj|solutionrelative:assets\\final version game\\platformer game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAtwMEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:03:26.238Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:03:29.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:53:00.211Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:53:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HeartTimerSystem.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\HeartTimerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\HeartTimerSystem.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\HeartTimerSystem.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\HeartTimerSystem.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:54:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraMoving.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\CameraMoving.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\CameraMoving.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\CameraMoving.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\CameraMoving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T01:04:06.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T00:53:00.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinishManager.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:54:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:53:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T23:50:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Final Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\micha\\Desktop\\Final Game\\Assets\\Final Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Final Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T22:58:11.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

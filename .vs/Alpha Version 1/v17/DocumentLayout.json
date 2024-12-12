@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\gameoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\gameoverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|c:\\users\\vishu\\downloads\\alpha version 1\\assets\\alpha version game\\platformer game\\scripts\\finishmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\finishmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|c:\\users\\vishu\\downloads\\alpha version 1\\assets\\alpha version game\\platformer game\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\enemyweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|C:\\Users\\vishu\\Downloads\\Alpha Version 1\\assets\\alpha version game\\platformer game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECF26627-7045-CB75-8770-99BA0A6DFCA6}|Assembly-CSharp.csproj|solutionrelative:assets\\alpha version game\\platformer game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:48:52.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:36:16.186Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinishManager.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\FinishManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:59:12.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:31:35.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOverHandler.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameOverHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameOverHandler.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameOverHandler.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameOverHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:25:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:25:19.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\EnemyWeapon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:05:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\vishu\\Downloads\\Alpha Version 1\\Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Alpha Version Game\\Platformer Game\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAQwEgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:28:24.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
